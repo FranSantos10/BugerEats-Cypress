@@ -1,0 +1,22 @@
+{
+  "name": "bugereats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranSantos10/BugerEats-Cypress.git"
+  },
+  "author": "Franciele Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranSantos10/BugerEats-Cypress/issues"
+  },
+  "homepage": "https://github.com/FranSantos10/BugerEats-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
