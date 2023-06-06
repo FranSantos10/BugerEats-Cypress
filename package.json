@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FranSantos10/BugerEats-Cypress#readme",
   "devDependencies": {
-    "cypress": "^12.13.0"
+    "cypress": "^12.13.0",
+    "cypress-file-upload": "^5.0.8"
   }
 }
