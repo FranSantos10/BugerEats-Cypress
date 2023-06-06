@@ -20,7 +20,7 @@ describe('Cadastro', () =>{
                 cidade_uf: 'Gravataí/RS'
             },
             metodo_entrega: 'Moto',
-            cnh: 'CNH-Digital_M.jpg'
+            cnh: '/images/CNH-Digital_M.jpg'
         }
         cy.get('input[name="name"]').type(dadosEntregador.nome)
         cy.get('input[name="cpf"]').type(dadosEntregador.cpf)
